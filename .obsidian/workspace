@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "3e611d6f3a9a88fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e0612daee178731",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GDB.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "f32b72c008d9418d"
+      },
+      {
+        "id": "b8c86381b98e60eb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GDB.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "f32b72c008d9418d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeffa46e2e1b1baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "43e9eb9ba5638058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308ff2f352047ada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5d7bb98f0bcc605",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0f22ac6c1d691f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b3ce75374b30ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "917dd9ff635eaf93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GDB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e0612daee178731",
+  "lastOpenFiles": [
+    "GDB.md",
+    "Programming Language C.md",
+    "Markdown.md",
+    "NJU-PA.md",
+    "正则表达式.md"
+  ]
+}
